@@ -1,0 +1,15 @@
+{
+    "name": "jonas/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonas Kong",
+            "email": "jonas_kong@outlook.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,7 +1,7 @@
 # composer-aided-php-crud
 
-Summary of stuff here.
+WIP
 
 # This is how you setup the project
 
-Do things here. Afterwards, do more stuff.
+WIP
